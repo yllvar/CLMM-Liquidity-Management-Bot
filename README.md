@@ -5,8 +5,6 @@
 
 A Solana bot for managing concentrated liquidity positions on Raydium's SOL-USDC pool with automatic rebalancing when positions go out of range.
 
-![CLMM Bot Diagram](https://github.com/yllvar/CLMM-Liquidity-Management-Bot/raw/main/assets/bot-diagram.png)
-
 ## Features
 
 - 🎯 Opens concentrated liquidity positions with customizable price range
